@@ -1,0 +1,15 @@
+{
+  "name": "nodeclient",
+  "version": "1.0.0",
+  "description": "Node Client to make HTTP request to Azure Function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jake Edwards",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1"
+  }
+}
